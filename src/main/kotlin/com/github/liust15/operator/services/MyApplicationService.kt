@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.liust15.operator.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.liust15.operator.MyBundle
 
 class MyApplicationService {
 
